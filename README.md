@@ -1,6 +1,6 @@
 # studying
-This repository is just for my student things, nothing much. <b>This repository is for keeping my progress and updates on courses and Bootcamps. </b>
-
+<body>This repository is just for my student things, nothing much. <b>This repository is for keeping my progress and updates on courses and Bootcamps. </b>
+<h1 style="color:#CD5C5C">Goals</h1>
 <b>goals of the week</b> (05/26 - 06/02): 
 
   ✅ <i>Start the Bootcamp TQI Full Stark Developer</i>
@@ -13,7 +13,6 @@ This repository is just for my student things, nothing much. <b>This repository 
   
   ⬜ <i>Continue the Bootcamp TQI Full Stark Developer</i>
   
-  <body>
-  <h1 style="color:IndianRed">Indian Red Title Text</h1>
+  <h1 style="color:#CD5C5C">Goals</h1>
   <p style="color:SlateGray">Slate gray paragraph text</p>
 </body>
