@@ -12,3 +12,8 @@ This repository is just for my student things, nothing much. <b>This repository 
   ⬜ <i>Finish the course aboute Java beginner to professional</i> (77h)
   
   ⬜ <i>Continue the Bootcamp TQI Full Stark Developer</i>
+  
+  <body>
+  <h1 style="color:IndianRed">Indian Red Title Text</h1>
+  <p style="color:SlateGray">Slate gray paragraph text</p>
+</body>
