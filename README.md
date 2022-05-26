@@ -10,7 +10,7 @@
  
 <b>goals of the week</b> (06/13 - 06/20)
 
-  ⬜ <i>Finish the course aboute Java beginner to professional</i> (77h)
+  ⬜ <i>Finish the course about Java (Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!)</i> (77h)
   
   ⬜ <i>Continue the Bootcamp TQI Full Stark Developer</i>
   
