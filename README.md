@@ -1,5 +1,5 @@
 # studying
-this repository is just for my student things, nothing much
+This repository is just for my student things, nothing much. <b>This repository is for keeping my progress and updates on courses and Bootcamps. </b>
 
 <b>goals of the week</b> (05/26 - 06/02): 
 
